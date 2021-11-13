@@ -1,0 +1,90 @@
+,price,rating,type,title,dine_in,takeout,delivery,price_num
+2,$,4.2,turkish,Divan Turkish Restaurant,1.0,1.0,1.0,1
+7,$$,4.0,italian,"Restaurante La Tagliatella | Diagonal Mar, Barcelona",1.0,1.0,1.0,2
+11,$,4.6,vegan_vegetarian,La Trocadero,1.0,1.0,1.0,1
+12,$$$,4.4,spanish,El Nacional,1.0,1.0,1.0,3
+15,$,4.3,asian,XiAn Restaurante,1.0,1.0,1.0,1
+17,$$,4.5,restaurant,Mimo's Born,1.0,1.0,1.0,2
+21,$$,4.2,restaurant,laLola,1.0,1.0,1.0,2
+23,$$,3.8,restaurant,ATN restaurant,1.0,1.0,1.0,2
+29,$,4.4,pizza,RESTAURANT PIZZERIA VERONA,1.0,1.0,1.0,1
+32,$$,4.0,mediterranean,Restaurant Mordisco,1.0,1.0,1.0,2
+36,$,4.2,asian,Kyoka,1.0,1.0,1.0,1
+39,$$,4.4,vegan_vegetarian,Teresa Carles,1.0,1.0,1.0,2
+41,$$,4.1,spanish,Taberna del Cura,1.0,1.0,1.0,2
+42,$$,4.5,indian,Swad-The Indian Restaurant,1.0,1.0,1.0,2
+44,$$,3.9,italian,"Restaurante La Tagliatella | CC. Las Arenas, Barcelona",1.0,1.0,1.0,2
+47,$$$$,4.4,mediterranean,Nectari,1.0,1.0,1.0,4
+48,$$,3.9,restaurant,La Fonda,1.0,1.0,1.0,2
+50,$,4.1,asian,Hu Nan,1.0,1.0,1.0,1
+52,$$,4.6,restaurant,Arume Restaurant,1.0,1.0,1.0,2
+54,$,4.6,restaurant,Narciso,1.0,1.0,1.0,1
+64,$$,4.3,grill,Restaurant ASADOR DE ARANDA,1.0,1.0,1.0,2
+67,$$$,3.9,restaurant,Nuba,1.0,1.0,1.0,3
+69,$$,4.2,asian,Watatsumi,1.0,1.0,1.0,2
+72,$$,4.1,restaurant,Restaurant Arrosseria Gaudí,1.0,1.0,1.0,2
+83,$$,3.9,american,Foster's Hollywood,1.0,1.0,1.0,2
+88,$$,4.3,hamburger,Five Guys,1.0,1.0,1.0,2
+91,$,4.0,latin_american,La Tarántula | Cocina Mexicana,1.0,1.0,1.0,1
+93,$$,4.6,restaurant,NÜA Smart Restaurant,1.0,1.0,1.0,2
+94,$,4.2,restaurant,Buenas Migas,1.0,1.0,1.0,1
+97,$$$,4.6,restaurant,Bardeni el meatbar - Caldeni,1.0,1.0,1.0,3
+98,$$,4.0,italian,Restaurante La Tagliatella,1.0,1.0,1.0,2
+101,$$$,4.4,mediterranean,Barceloneta,1.0,1.0,1.0,3
+103,$,3.9,spanish,Muxia 2 Bar-Restaurant,1.0,1.0,1.0,1
+104,$$,4.5,spanish,Restaurante Petra,1.0,1.0,1.0,2
+107,$,4.5,restaurant,Musiu,1.0,1.0,1.0,1
+108,$$,4.0,restaurant,Restaurant Casa Carmen,1.0,1.0,1.0,2
+110,$$,4.2,mediterranean,Restaurant La Boqueria,1.0,1.0,1.0,2
+116,$$,4.6,asian,Can Kenji,1.0,1.0,1.0,2
+117,$,4.2,italian,Buenas Migas,1.0,1.0,1.0,1
+118,$,4.3,bar & grill,Champanillo Barcelona,1.0,1.0,1.0,1
+122,$$,4.1,greek,La Taberna Grega,1.0,1.0,1.0,2
+123,$$,4.3,asian,Ramen House,1.0,1.0,1.0,2
+126,$,4.5,argentinian,Restaurante El Laurel,1.0,1.0,1.0,1
+129,$$,4.4,indian,Rangoli,1.0,1.0,1.0,2
+131,$$,4.1,hamburger,Five Guys,1.0,1.0,1.0,2
+133,$,4.7,italian,Tucco Real Food Born,1.0,1.0,1.0,1
+140,$$,3.9,italian,La Tagliatella,1.0,1.0,1.0,2
+143,$,4.3,asian,Restaurant MIAN,1.0,1.0,1.0,1
+146,$$$$,4.8,fine dining,Disfrutar,1.0,1.0,1.0,4
+147,$$,4.1,mediterranean,Elche,1.0,1.0,1.0,2
+156,$,4.5,italian,Bella Itàlia,1.0,1.0,1.0,1
+157,$,4.4,pizza,Gusto del Born,1.0,1.0,1.0,1
+162,$$,4.6,tapas,Ziryab Fusion Tapas Bar,1.0,1.0,1.0,2
+163,$,4.3,latin_american,Restaurante Rosa Negra,1.0,1.0,1.0,1
+164,$$,4.5,brunch,Bristol Gastropub,1.0,1.0,1.0,2
+165,$$,4.1,mediterranean,Citrus Restaurant & Sushi bar,1.0,1.0,1.0,2
+166,$$$,4.2,mediterranean,Carpe Diem,1.0,1.0,1.0,3
+167,$,4.4,restaurant,Master Chef Restaurant Barcelona,1.0,1.0,1.0,1
+168,$$$$,4.7,fine dining,Lasarte,1.0,1.0,1.0,4
+171,$,4.0,bar & grill,Restaurant Green's,1.0,1.0,1.0,1
+172,$$,3.9,italian,La Tagliatella,1.0,1.0,1.0,2
+173,$,4.5,restaurant,Shalimar Braseria (Bar y Restaurante),1.0,1.0,1.0,1
+176,$,4.5,south african,Spice BCN Amigo,1.0,1.0,1.0,1
+178,$,4.6,restaurant,Cafè Menssana,1.0,1.0,1.0,1
+180,$$,4.7,bar & grill,Viana Barcelona,1.0,1.0,1.0,2
+183,$$,4.0,italian,La Tagliatella,1.0,1.0,1.0,2
+184,$$,4.4,latin_american,"San Pedrito, Restaurante Y Licoreria",1.0,1.0,1.0,2
+187,$$,4.4,restaurant,Bronzo - Bar e cucina (Eixample),1.0,1.0,1.0,2
+189,$,3.9,asian,Yuan Man | Sushi | Tapas | Take Away,1.0,1.0,1.0,1
+191,$$,4.1,mediterranean,Restaurant La Pepa,1.0,1.0,1.0,2
+192,$,4.4,latin_american,El Changarrito (poble sec),1.0,1.0,1.0,1
+194,$$,4.4,restaurant,Asador de Aranda,1.0,1.0,1.0,2
+195,$,4.4,latin_american,La fonda paisa,1.0,1.0,1.0,1
+196,$$,4.6,argentinian,Restaurant Parrilla Alfonsina,1.0,1.0,1.0,2
+200,$$,4.7,restaurant,Medio o Pinto Restaurante,1.0,1.0,1.0,2
+202,$,4.2,durum,Zozan Restaurant Gourmet,1.0,1.0,1.0,1
+205,$$,4.4,lebanese,Al Jaima de Abou Khalil,1.0,1.0,1.0,2
+206,$$,4.0,mediterranean,Arenal Restaurant,1.0,1.0,1.0,2
+207,$$,4.3,latin_american,Anormal Food | Cocina Latinoamericana | Delivery & Para llevar,1.0,1.0,1.0,2
+210,$$,4.2,hamburger,Five Guys,1.0,1.0,1.0,2
+211,$,4.2,asian,Bun Bo Barcelona (Gótico),1.0,1.0,1.0,1
+215,$$,4.3,spanish,Pepito Restaurante,1.0,1.0,1.0,2
+217,$,4.0,fast food,Restaurant KFC,1.0,1.0,1.0,1
+222,$$,4.5,restaurant,ApriBocca - Italian Restaurant,1.0,1.0,1.0,2
+223,$$,4.2,mediterranean,Tantarantana,1.0,1.0,1.0,2
+224,$,4.4,asian,Grasshopper Ramen Bar,1.0,1.0,1.0,1
+226,$$,4.2,pizza,Gusto Restaurant,1.0,1.0,1.0,2
+235,$,4.5,indian,Tandoori Nights - Indian Restaurant,1.0,1.0,1.0,1
+238,$$,4.1,hamburger,Five Guys,1.0,1.0,1.0,2
